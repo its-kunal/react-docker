@@ -1,4 +1,3 @@
-import React from "react";
 import ReactSVG from "./assets/react.svg";
 
 const HomePage = () => {
