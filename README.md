@@ -39,7 +39,7 @@ This command will start a Docker container based on the react-app image and map 
 
 If you prefer to use a different port on your local machine, you can modify the command to `docker -p <your-port>:80 react-app`.
 
-## Image
+## Docker Image
 Build of this image is available at [Link](https://hub.docker.com/repository/docker/dkunalpy3/react-test/general)
 or you can pull image using this command:
 
