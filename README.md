@@ -47,6 +47,11 @@ or you can pull image using this command:
 docker pull dkunalpy3/react-test:v1
 ```
 
+Image URL
+
+```url
+docker.io/dkunalpy3/react-test:v1
+```
 
 ### Customization
 You can customize the React application by modifying the files in the src directory. Once you make any changes, you will need to rebuild the Docker image using the docker build command mentioned above.
